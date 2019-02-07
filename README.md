@@ -1,5 +1,11 @@
 # ict-vue
 
+# Electron-vue
+```
+npm run electron:serve
+
+npm run electron:build
+```
 ## Project setup
 ```
 npm install
